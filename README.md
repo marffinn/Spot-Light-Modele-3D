@@ -1,4 +1,4 @@
-# spot-light-lampy-3D
+# Spot-Light-Modele-3D
 
 W razie jakichkolwiek pytań i poprawek proszę kontaktować się ze mną mailowo.
 Jeżeli jakiegoś modelu nie ma, proszę też pisać ( nie do każdej lampy znalazłem rysunek techniczny )
